@@ -1,0 +1,14 @@
+pulsepin/
+├── pubspec.yaml
+├── lib/
+│   ├── main.dart
+│   ├── theme.dart
+│   ├── app_user.dart
+│   ├── auth_wrapper.dart
+│   └── feed_screen.dart
+└── android/
+    ├── build.gradle          ✅ NEW
+    ├── gradle.properties      ✅ NEW
+    └── app/
+        └── build.gradle       ✅ NEW
+
